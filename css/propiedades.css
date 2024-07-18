@@ -1,0 +1,37 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* Estilos de la tarjeta */
+  .tarjeta {
+    box-shadow: 0 0 4px 4px lightgrey;
+    width: 300px;
+  }
+  
+  /* Estilos del título */
+  .titulo {
+    background-color: grey;
+    color: white;
+    padding: 8px;
+    text-align: center;
+    font-size: 1.5em; 
+  }
+  
+  /* Estilos del cuerpo */
+  .body {
+    font-style: italic;
+    text-align: justify;
+    padding: 8px;
+  }
+  
+  /* Estilos del pie */
+  .foot {
+    background-color: lightgrey;
+    color: black;
+    text-align: center;
+    padding: 8px;
+  }
